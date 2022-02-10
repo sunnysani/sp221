@@ -1,0 +1,12 @@
+title:       "sunnysani SP221"
+author:           "Naufal Sani + Contek sana contek sini"
+sitemap:          "true"
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+urlweb:           "https://sunnysani.github.io/sp221/"
+urlgithub:        "https://github.com/sunnysani/sp221/"
+urlghpage:        "https://sunnysani.github.io/sp221/"
+keywords:         "jekyll, testing"
+github:           [metadata]
+
