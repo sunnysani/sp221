@@ -1,7 +1,7 @@
 #!/bin/bash
 # Copyright (C) 2020-2022 Cicak Bin Kadal
 
-WEEK="00"
+WEEK="01"
 
 # This free document is distributed in the hope that it will be 
 # useful, but WITHOUT ANY WARRANTY; without even the implied 
@@ -18,8 +18,8 @@ WEEK="00"
 # You new to set "REC2" with your own Public-Key Identity!
 # Check it out with "gpg --list-key"
 
-REC2="0D3FEB23EE2236A80676DC9D90297F40A3619721"
-REC1="055FEB594B351CC03DE992C563FB12B215403B20"
+REC2="90297F40A3619721"
+REC1="63FB12B215403B20"
 FILES="my*.asc my*.txt my*.sh"
 SHA="SHA256SUM"
 RESDIR="$HOME/SP_RESULT/"
