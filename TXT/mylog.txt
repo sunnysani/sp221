@@ -7,3 +7,6 @@ ZCZC W01 20 L04 Github Settings
 ZCZC W01 15 L05 Quiz Related
 ZCZC W01 60 L06 GSGS
 ZCZC W01 120 L11 Assignment #1
+ZCZC W02 90 L02 Zoom Class
+ZCZC W02 15 L05 Quiz Related
+ZCZC W02 600 L12 Assignment #2
