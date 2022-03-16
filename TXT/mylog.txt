@@ -12,3 +12,6 @@ ZCZC W02 15 L05 Quiz Related
 ZCZC W02 600 L12 Assignment #2
 ZCZC W03 90 L02 Zoom Class
 ZCZC W03 600 L13 Assignment #3
+ZCZC W04 90 L02 Zoom Class
+ZCZC W04 400 L14 Assignment #3
+ZCZC W04 150 L06 GSGS
