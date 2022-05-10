@@ -24,3 +24,5 @@ ZCZC W07 90 L02 Zoom Class
 ZCZC W07 120 L17 Assignment #7
 ZCZC W07 60 L06 GSGS
 ZCZC W08 60 L02 Zoom Class + Assignment
+ZCZC W09 130 L02 Zoom Class + Assignment
+ZCZC W09 30 L06 GSGS
